@@ -1,0 +1,15 @@
+{
+  "name": "skill-sharing",
+  "version": "1.0.0",
+  "description": "elegantjs project",
+  "main": "router.js",
+  "dependencies": {
+    "eslint": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bryant volk",
+  "license": "ISC"
+}
